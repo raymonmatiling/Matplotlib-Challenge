@@ -1,5 +1,13 @@
 # Matplotlib-Challenge | Assignment - Pymaceuticals
 
+### Analysis
+
+ * The majority of mice were treated with either Capomulin or Ramicane, indicating that these two drugs were the most commonly used treatments in the study. And, Propriva was the least frequently administered drug in the study, implying it had the fewest instances of usage among the drugs analyzed.
+ * There's a slightly higher number of male mice compared to female mice across all treatments. However, the difference is minimal (2%), suggesting that sex might not be a significant variable influencing the study outcomes.
+ * Capomulin and Ramicane treatments resulted in lower final tumor volumes compared to other regimens, with Ramicane showing potentially lower tumor volumes than Capomulin. However, Ramicane had a slightly smaller sample size, so to ensure more accurate comparisons, equalizing the number of mice in both regimens might be beneficial. Ceftamin displayed a larger variance in final tumor volume compared to the other three drugs, indicating more variability or spread in its outcomes.
+ * Mouse ID l509, treated with Capomulin, displayed a decrease in tumor volume over time. Additionally, the sample chart of five mice under the same regimen supports the assumption that Capomulin might be effective in reducing tumor size.
+ * The correlation of 0.84 between mouse weight and average tumor volume indicates a robust and significant relationship, implying that changes in mouse weight are closely associated with changes in average tumor size across the dataset under consideration.
+    
 ## Background
 You've just joined Pymaceuticals, Inc., a new pharmaceutical company that specializes in anti-cancer medications. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
